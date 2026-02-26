@@ -1,0 +1,44 @@
+# Joshua Shaw
+
+Infrastructure & Network Engineering  
+Security+ | Network+ (In Progress)
+
+I design and document segmented infrastructure environments focused on
+security, least-privilege access control, and operational resilience.
+
+
+## Core Focus Areas
+- VLAN segmentation and network isolation
+- Least-privilege firewall policy design
+- Dockerized service architecture
+- Secure remote access (VPN)
+- Backup and recovery planning
+- Linux system administration
+- Infrastructure documentation
+
+
+## Featured Project
+
+### infrastructure-lab
+A production-style segmented infrastructure lab simulating enterprise
+network architecture.
+
+**Key elements**
+- Multi-VLAN design (Management, Servers, IoT, Clients, Guest, VPN)
+- Default-deny firewall posture with documented policy matrix
+- Dockerized services with configuration templating
+- Secure VPN access restricted to management plane
+- Documented backup and recovery strategy
+- Hardening checklist and operational reasoning
+
+This lab demonstrates architectural thinking beyond simple service deployment.
+
+
+## Certifications
+- CompTIA A+
+- CompTIA Security+
+- Network+ (In Progress)
+
+
+## Career Direction
+Open to infrastructure, network, and systems engineering roles where secure design, automation, and operational stability matter.

@@ -1,187 +1,79 @@
+
 # Joshua Shaw
 
-## Infrastructure & Network Engineering
+### Infrastructure & Network Engineering | Linux Systems | IT Operations
 
-CompTIA A+ | Security+ | Network+ in progress
+CompTIA A+ · CompTIA Security+ · Network+ in progress
 
-I build and operate multi-site infrastructure environments focused on networking, Linux systems, virtualization, monitoring, security segmentation, and operational reliability.
+I design, deploy, operate, and troubleshoot multi-site
+infrastructure in a self-managed lab environment, applying
+enterprise-style engineering and operational practices.
 
-My projects emphasize deployed systems, troubleshooting, validation, documentation, and change management rather than theoretical designs alone.
+My work focuses on Linux systems administration,
+network segmentation, virtualization, secure infrastructure
+services, monitoring, automation, and operational reliability.
 
----
+## Featured Engineering Projects
 
-## Core Skills
+| Project | Technical Focus |
+|---|---|
+| [Multi-Site Infrastructure](https://github.com/Shaw4552/homelab-public) | Network architecture, Linux, Proxmox, VPN, security |
+| [Monitoring & Observability](https://github.com/Shaw4552/enterprise-monitoring-observability) | LibreNMS, SNMPv3, Docker, monitoring operations |
+| [Network Segmentation](https://github.com/Shaw4552/network-segmentation-design) | VLANs, firewall policy, least-privilege access |
+| [DNS Infrastructure](https://github.com/Shaw4552/dns-infrastructure-stack) | Pi-hole, Unbound, recursive DNS, redundancy planning |
+| [Proxmox Virtualization](https://github.com/Shaw4552/proxmox-virtualization-platform) | Virtual machines, LXC, storage, networking |
+| [Network Security Assessment](https://github.com/Shaw4552/external-network-security-assessment) | Containerized assessment, Linux hardening, troubleshooting |
 
-### Infrastructure
+## Technical Capabilities
 
-* Proxmox VE
-* Linux administration
-* LXC
-* Docker
-* virtualization and container operations
-* backup and recovery
+| Domain | Technologies & Practices |
+|---|---|
+| Systems Administration | Linux, Proxmox VE, LXC, systemd |
+| Networking | UniFi, VLANs, routing, firewall policies, WireGuard, VPN |
+| Infrastructure Services | Pi-hole, Unbound, Caddy, DNS, PKI, TLS |
+| Containers | Docker, Docker Compose, application deployment |
+| Monitoring | LibreNMS, SNMPv3, service-health validation |
+| Automation | Bash, Python, Git, GitHub Actions |
+| Security | Network isolation, least-privilege access, security assessment |
+| IT Operations | Troubleshooting, runbooks, change management, backup and recovery |
 
-### Networking
+## Engineering Practices
 
-* Ubiquiti UniFi
-* VLAN segmentation
-* firewall policy
-* inter-VLAN routing
-* site-to-site VPN
-* WireGuard
-* OpenWrt
+My infrastructure projects emphasize:
 
-### Infrastructure Services
+- Evidence-based troubleshooting and root-cause analysis
+- Network segmentation and controlled access
+- Repeatable deployments and configuration management
+- Service monitoring and operational validation
+- Backup, recovery, and rollback planning
+- Technical documentation and change management
+- Continuous improvement and technical debt management
 
-* Pi-hole
-* Unbound
-* Caddy
-* DNS architecture
-* internal PKI and TLS
+## Supporting Technical Projects
 
-### Monitoring & Operations
-
-* LibreNMS
-* SNMPv3
-* infrastructure monitoring
-* service-health validation
-* operational runbooks
-* incident response
-* change management
-
-### Automation & Tooling
-
-* Git
-* GitHub
-* GitHub Actions
-* Bash
-* deployment and validation scripts
-* technical documentation
-
----
-
-# Featured Projects
-
-## Enterprise-Style Homelab Infrastructure
-
-[View Project →](https://github.com/Shaw4552/homelab-public)
-
-A multi-site infrastructure environment designed around enterprise networking, systems administration, security, and operational practices.
-
-Highlights include:
-
-* Proxmox VE virtualization
-* Linux VMs and LXC containers
-* Docker-based services
-* UniFi routing and wireless infrastructure
-* VLAN-based trust segmentation
-* deny-by-default firewall policy
-* site-to-site VPN connectivity
-* Pi-hole and Unbound DNS
-* Caddy reverse proxy
-* internal PKI and HTTPS
-* infrastructure troubleshooting
-* documented engineering case studies
-
----
-
-## Enterprise Monitoring & Observability
-
-[View Project →](https://github.com/Shaw4552/enterprise-monitoring-observability)
-
-A production-style monitoring platform built around LibreNMS and operational infrastructure practices.
-
-Highlights include:
-
-* LibreNMS
-* SNMP-based monitoring
-* Docker deployment
-* MariaDB and Redis
-* Caddy HTTPS integration
-* internal certificate authority
-* service-health validation
-* monitoring runbooks
-* backup and recovery procedures
-* incident-response documentation
-* infrastructure change records
-* root-cause analysis
-
----
-
-## Additional Infrastructure Projects
-
-### Infrastructure Portfolio
-
-[View Repository →](https://github.com/Shaw4552/infrastructure-portfolio)
-
-Additional infrastructure engineering documentation and project examples.
-
-### Network Segmentation Design
-
-[View Repository →](https://github.com/Shaw4552/network-segmentation-design)
-
-Security-focused VLAN and trust-boundary design.
-
-### DNS Infrastructure Stack
-
-[View Repository →](https://github.com/Shaw4552/dns-infrastructure-stack)
-
-DNS architecture and infrastructure service design.
-
-### Proxmox Virtualization Platform
-
-[View Repository →](https://github.com/Shaw4552/proxmox-virtualization-platform)
-
-Virtualization platform design and administration.
-
----
+- [Linux Thermal Diagnostics](https://github.com/Shaw4552/cpu-temp-test)
+- [Linux VPN Automation](https://github.com/Shaw4552/expressvpn-autoconnect)
+- [DNS Policy Management](https://github.com/Shaw4552/pihole-policy-list)
 
 ## Certifications
 
-* CompTIA A+
-* CompTIA Security+
-* CompTIA Network+ — In Progress
+- CompTIA A+
+- CompTIA Security+
+- CompTIA Network+ — In progress
 
----
+## Current Engineering Focus
 
-## Current Focus
+- Multi-site infrastructure reliability
+- Linux systems administration
+- Network security and segmentation
+- Infrastructure monitoring and observability
+- Deployment automation
+- Infrastructure modernization
 
-I am continuing to develop hands-on experience in:
+## Professional Direction
 
-* systems administration
-* infrastructure engineering
-* network engineering
-* monitoring and observability
-* Linux operations
-* automation
-* configuration management
-* centralized logging
-* infrastructure reliability
+Interested in opportunities involving infrastructure
+support, systems administration, network operations,
+Linux administration, and IT operations engineering.
 
----
-
-## Engineering Approach
-
-I approach infrastructure as an operational system:
-
-* document the environment
-* segment access intentionally
-* validate changes before deployment
-* maintain rollback paths
-* monitor service health
-* investigate failures methodically
-* automate repeatable work
-* improve systems based on operational experience
-
----
-
-## Career Direction
-
-I am focused on roles including:
-
-* Systems Administrator
-* Infrastructure Engineer
-* Network Engineer
-* NOC Analyst
-* Technical Support Engineer
-* IT Operations Engineer
+Based in the Dallas–Fort Worth, Texas area.
